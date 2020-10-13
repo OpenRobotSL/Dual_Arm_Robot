@@ -1,0 +1,5 @@
+LIBRARY  "export_puma560_fik"
+EXPORTS
+
+fk_hrg_puma560_DefTcs  @1
+ik_hrg_puma560 @2
